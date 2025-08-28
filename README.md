@@ -43,7 +43,7 @@ REST API для управления задачами с полным набор
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Kirik-hamster/task-manager
 cd task_manager
 ```
 
